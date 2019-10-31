@@ -8,3 +8,7 @@ vaibhav_bisht.35
 git clone 
 student pack
 
+git clone 
+git add .
+git commmit -m "msg"
+git push
